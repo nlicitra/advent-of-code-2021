@@ -124,6 +124,6 @@ fn part2() -> usize {
 }
 
 pub fn exec() -> usize {
-    println!("Day 3");
+    println!("Day 4");
     part2()
 }
