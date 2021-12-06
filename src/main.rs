@@ -1,7 +1,7 @@
-mod day5;
+mod day6;
 
 fn main() {
     println!("Advent of Code");
-    let result = day5::exec();
+    let result = day6::exec();
     println!("Result: {}", result);
 }
